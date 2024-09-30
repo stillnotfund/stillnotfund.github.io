@@ -18,8 +18,10 @@ function App() {
     <div className="h-screen bg-black overflow-y-auto">
       <div className="h-screen flex items-center justify-center">
         <div className="text-center">
-          <h1 className="text-8xl font-bold text-white mb-4">404notfund</h1>
-          <p className="text-xl text-gray-400">Welcome to our innovative projects</p>
+          <h1 className="text-4xl sm:text-6xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-white mb-4">
+            404notfund
+          </h1>
+          <p className="text-base sm:text-lg md:text-xl text-gray-400">Welcome to our innovative project</p>
           <div className="mt-8">
             <a href="#content" className="text-white animate-bounce">
               ↓ Scroll down ↓
