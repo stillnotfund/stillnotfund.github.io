@@ -27,6 +27,14 @@ function App() {
               ↓ Scroll down ↓
             </a>
           </div>
+          <div className="mt-6">
+            <a
+              href="/support/apple"
+              className="inline-block px-4 py-2 bg-white text-black rounded hover:bg-gray-200 transition"
+            >
+              Apple Support
+            </a>
+          </div>
         </div>
       </div>
       
