@@ -13,7 +13,7 @@ function AppleSupport() {
 
           <div className="bg-zinc-900 rounded-lg p-4 border border-zinc-800">
             <h2 className="text-xl font-semibold">Business Contact</h2>
-            <a href="mailto:ninja.gene@ninja666.com" className="text-indigo-400 underline break-all">ninja.gene@ninja666.com</a>
+            <a href="mailto:Business@ninja666.com" className="text-indigo-400 underline break-all">ninja.gene@ninja666.com</a>
           </div>
         </div>
 
